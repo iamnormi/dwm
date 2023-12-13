@@ -29,7 +29,7 @@ static char *colors[][3] = {
 
 /*custom dracula color*/
 static char normbgcolor[]           = "#1a1a1a";
-static char normbordercolor[]       = "#ffffff";
+static char normbordercolor[]       = "#1a1a1a";
 static char normfgcolor[]           = "#ffffff";
 static char selfgcolor[]            = "#ffffff";
 static char selbordercolor[]        = "#ffffff";
