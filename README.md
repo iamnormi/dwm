@@ -4,8 +4,10 @@ Dynamic(suckless) Window Manager {dwm} aka my Version.
 done:
 1. swallow
 2. fullgaps
+problem : swallow conflict with winicon
 want to:
-winicon
+1. winicon
+
 
 ## Dev = 1'43
 These codes was maintained by [**iamNormi**](https://github.com/iamNormi).
