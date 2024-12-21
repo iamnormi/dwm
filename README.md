@@ -1,11 +1,11 @@
 # dwm
 Dynamic(suckless) Window Manager {dwm} aka my Version.
 ## Patches
-done:
+### done:
 1. swallow
 2. fullgaps
-problem : swallow conflict with winicon
-want to:
+##### problem : swallow conflict with winicon
+#### want to:
 1. winicon
 
 
