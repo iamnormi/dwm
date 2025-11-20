@@ -4,9 +4,9 @@ Dynamic(suckless) Window Manager {dwm} aka my Version.
 ### done:
 1. swallow
 2. fullgaps
-##### problem : swallow conflict with winicon
+
 #### want to:
-1. winicon
+1. systray
 
 
 ## Dev = 1'43
